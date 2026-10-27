@@ -1,0 +1,9 @@
+{
+  "name": "video-editor-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local agent-assisted video editing workflow with private media by default",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "dependencies": { "hyperframes": "0.8.206" }
+}
